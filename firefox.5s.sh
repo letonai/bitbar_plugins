@@ -5,7 +5,7 @@
 # <bitbar.author>Ricardo Letonai</bitbar.author>
 # <bitbar.author.github>Letonai</bitbar.author.github>
 # <bitbar.desc>Run Firefox</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/letonai/bitbar_plugins/master/preview.png</bitbar.image>
 # <bitbar.dependencies>bash</bitbar.dependencies>
 
 FF="/Applications/Firefox.app/Contents/MacOS/firefox"
